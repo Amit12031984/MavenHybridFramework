@@ -1,0 +1,15 @@
+2021-07-25 04:31:19,426  INFO [main] TestBase:23 - Reading property from property file
+2021-07-25 04:31:19,433  INFO [main] TestBase:32 - Value found in the property file for the keybrowser
+2021-07-25 04:31:23,182  INFO [main] TestBase:23 - Reading property from property file
+2021-07-25 04:31:23,184  INFO [main] TestBase:32 - Value found in the property file for the keyurl
+2021-07-25 04:31:24,230  INFO [main] TestBase:35 - Test suite started
+2021-07-25 04:31:24,302  INFO [main] TestBase:13 - Test case is starting Login
+2021-07-25 04:31:25,458  INFO [main] TestBase:17 - Test case is passed Login
+2021-07-25 04:31:25,463  INFO [main] TestBase:13 - Test case is starting Test02
+2021-07-25 04:31:25,475  INFO [main] TestBase:27 - Test case skipped with name Test02
+2021-07-25 04:31:25,486  INFO [main] TestBase:13 - Test case is starting Test02
+2021-07-25 04:31:25,491  INFO [main] TestBase:27 - Test case skipped with name Test02
+2021-07-25 04:31:25,494  INFO [main] TestBase:13 - Test case is starting Test02
+2021-07-25 04:31:25,500  INFO [main] TestBase:21 - Test case failed with name Test02
+2021-07-25 04:31:25,762  INFO [main] TestBase:23 - Screen shot captured for failed test case
+2021-07-25 04:31:25,830  INFO [main] TestBase:39 - Test suite finished
